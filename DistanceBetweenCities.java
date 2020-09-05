@@ -14,7 +14,7 @@ public class DistanceBetweenCities {
 		c=a*3280.84;
 		System.out.println(" Distance Between two Cities in miles "+b);
 		System.out.println(" Distance Between two Cities in foots "+c);
-
+//edited
 	}
 
 }
